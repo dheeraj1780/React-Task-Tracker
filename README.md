@@ -45,7 +45,7 @@ To set up the Task Tracker app on your local machine:
 This project is intended for learning purposes. Contributions are welcome to improve the functionality and add more features.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
-For any questions or inquiries, please reach out to [your-email@example.com](mailto:jdeeran2004@gmail.com).
+For any questions or inquiries, please reach out to [jdeeran2004@gmail.com](mailto:jdeeran2004@gmail.com).
